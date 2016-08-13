@@ -1,0 +1,15 @@
+{
+	"TestId":"testcase004",
+	"Method":"post",
+	"Title":"测试用例1"
+	"Desc":"测试用例1",
+	"url":"http:www.touzhijia.com",
+	"InputArg":{
+	"account":"TZJLX330"，
+	"title":"测试",
+	"action":"debt_buy"
+	},
+	"result":{
+	"errorno":"0"
+	}
+}
