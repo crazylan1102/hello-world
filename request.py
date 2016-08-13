@@ -34,7 +34,7 @@ def sendData(testData,num):
 		rs.write(testData[num][TestId])
 		rs.write('\n')
 
-	#结果判定
+	#结果判定是的
 	with open('result.txt','a+') as rst:
 		rst.write('返回数据')
 		rst.write('|')
